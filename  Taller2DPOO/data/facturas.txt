@@ -1,0 +1,198 @@
+Total = 0;Factura No. 1Nombre Cliente: cata
+Direccion Cliente: preubaeeeProductos:
+combo corral - $22050
+agua cristal sin gas - $5000
+
+Precio neto: $32189
+IVA: $5139,50
+Total: $32189ID No. 1
+Nombre Cliente: Cata
+Direccion Cliente: FUNCIONA
+Productos:
+wrap de lomo - $22000
+
+Precio neto: $26180
+IVA: $4180,00
+Total: $26180ID No. 1
+Nombre Cliente: cata
+Direccion Cliente: s
+Productos:
+gaseosa - $5000
+mexicana - $22000
+mexicana - $22000
+mexicana - $22000
+
+Precio neto: $84490
+IVA: $13490,00
+Total: $84490ID No. 1
+Nombre Cliente: cata
+Direccion Cliente: caca
+Productos:
+combo corral - $22050
+combo corral queso - $23850
+combo todoterreno - $34317
+
+Precio neto: $80217
+IVA: $15241,23
+Total: $95458ID No. 2
+Nombre Cliente: caca
+Direccion Cliente: caca
+Productos:
+criolla - $22000
+
+Precio neto: $22000
+IVA: $4180,00
+Total: $26180ID No. 3
+Nombre Cliente: caca
+Direccion Cliente: ca
+Productos:
+agua cristal sin gas - $5000
+todoterreno - $25000
+Ingredientes eliminados: cebolla
+Ingredientes agregados
+
+Precio neto: $30000
+IVA: $5700,00
+Total: $35700ID No. 1
+Nombre Cliente: cata
+Direccion Cliente: caca
+Productos:
+ensalada mexicana - $23400
+corral - $16000
+
+Precio neto: $39400
+IVA: $7486,00
+Total: $46886ID No. 1
+Nombre Cliente: cacacaca
+Direccion Cliente: cacacaca
+Productos:
+agua cristal sin gas - $11000
+
+Precio neto: $11000
+IVA: $2090,00
+Total: $13090ID No. 1
+Nombre Cliente: caca
+Direccion Cliente: ca
+Productos:
+casera - $23000
+
+Precio neto: $23000
+IVA: $4370,00
+Total: $27370ID No. 1
+Nombre Cliente: cacaca
+Direccion Cliente: cacaca
+Productos:
+agua cristal sin gas - $6000
+
+Precio neto: $6000
+IVA: $1140,00
+Total: $7140ID No. 2
+Nombre Cliente: caca
+Direccion Cliente: caca
+Productos:
+mexicana - $26500
+
+Precio neto: $26500
+IVA: $5035,00
+Total: $31535ID No. 1
+Nombre Cliente: caca
+Direccion Cliente: caca
+Productos:
+agua cristal con gas - $5000
+Ingredientes eliminados: pepinillos
+Ingredientes agregados
+costeña - $22500
+
+Precio neto: $27500
+IVA: $5225,00
+Total: $32725ID No. 2
+Nombre Cliente: cacac
+Direccion Cliente: cacac
+Productos:
+ensalada mexicana - $23400
+
+Precio neto: $23400
+IVA: $4446,00
+Total: $27846ID No. 1
+Nombre Cliente: cfafw
+Direccion Cliente: fewe
+Productos:
+hawaiana - $22500
+
+Precio neto: $22500
+IVA: $4275,00
+Total: $26775ID No. 1
+Nombre Cliente: caca
+Direccion Cliente: cacacac
+Productos:
+gaseosa - $5000
+Ingredientes eliminados: cebolla
+Ingredientes agregados
+wrap de pollo - $15000
+Ingredientes eliminados: cebolla, tomate, lechuga
+Ingredientes agregados
+wrap de lomo - $23000
+papas en casco medianas - $8500
+
+Precio neto: $51500
+IVA: $9785,00
+Total: $61285ID No. 2
+Nombre Cliente: caca
+Direccion Cliente: caca
+Productos:
+wrap de pollo - $16000
+
+Precio neto: $16000
+IVA: $3040,00
+Total: $19040ID No. 1
+Nombre Cliente: caca
+Direccion Cliente: caca
+Productos:
+hawaiana - $25500
+
+Precio neto: $25500
+IVA: $4845,00
+Total: $30345ID No. 1
+Nombre Cliente: caca
+Direccion Cliente: caca
+Productos:
+agua cristal con gas - $11000
+
+Precio neto: $11000
+IVA: $2090,00
+Total: $13090ID No. 1
+Nombre Cliente: caca
+Direccion Cliente: caca
+Productos:
+mexicana - $28000
+
+Precio neto: $28000
+IVA: $5320,00
+Total: $33320ID No. 2
+Nombre Cliente: ca
+Direccion Cliente: ca
+Productos:
+hawaiana - $21000
+
+Precio neto: $21000
+IVA: $3990,00
+Total: $24990ID No. 3
+Nombre Cliente: da
+Direccion Cliente: da
+Productos:
+gaseosa - $6000
+
+Precio neto: $6000
+IVA: $1140,00
+Total: $7140ID No. 1
+Nombre Cliente: efs
+Direccion Cliente: gsgs
+Productos:
+hawaiana - $24500
+Ingredientes eliminados: tomate
+Ingredientes agregados: frijol refrito - 
+Precio Adicional: $450
+
+Precio neto: $24500
+IVA: $4655,00
+Total: $29155
